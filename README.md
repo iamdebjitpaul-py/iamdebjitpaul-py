@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Debjit Paul 👋
 
-<!--
-**iamdebjitpaul-py/iamdebjitpaul-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently learning **Python** and **Java** programming and I am a professional at this.
+- 🌱 I'm a High School Student passionate about coding and problem solving.
+- 💻 I'm building beginner projects to improve my logic and development skills.
+- 📫 How to reach me: **debjitp2011@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Languages & Tools I Use:
+- **Programming:** Python, Java
+- **Web Basics:** HTML, CSS
+- **Tools:** VS Code, GitHub, Windows
+-
